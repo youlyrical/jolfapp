@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jolfapp/static/css/main.f4b47654.css",
-    "main.js": "/jolfapp/static/js/main.eb4c4ab7.js",
+    "main.js": "/jolfapp/static/js/main.573e9dc1.js",
     "static/js/453.dc3ad3ef.chunk.js": "/jolfapp/static/js/453.dc3ad3ef.chunk.js",
     "index.html": "/jolfapp/index.html",
     "main.f4b47654.css.map": "/jolfapp/static/css/main.f4b47654.css.map",
-    "main.eb4c4ab7.js.map": "/jolfapp/static/js/main.eb4c4ab7.js.map",
+    "main.573e9dc1.js.map": "/jolfapp/static/js/main.573e9dc1.js.map",
     "453.dc3ad3ef.chunk.js.map": "/jolfapp/static/js/453.dc3ad3ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4b47654.css",
-    "static/js/main.eb4c4ab7.js"
+    "static/js/main.573e9dc1.js"
   ]
 }
